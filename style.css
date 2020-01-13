@@ -17,3 +17,12 @@ body {
     
     font-size: 38px;
 }
+
+@media screen and (max-width: 640px) {
+    .jt2 h1 {
+        font-size: 38px;
+    }
+    .facts2 {
+        font-size: 10px;
+    }
+}
